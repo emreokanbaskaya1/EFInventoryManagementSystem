@@ -18,6 +18,45 @@ A full-featured Windows Forms inventory management system built with C# and Enti
 - Entity Framework 6
 - Microsoft SQL Server
 
+## 🗄 Database Setup
+This project includes a db_create folder that contains separate SQL scripts to create the required tables individually.
+
+### 📁 db_create folder includes:
+TBLADMIN.sql
+
+TBLKATEGORI.sql
+
+TBLMUSTERI.sql
+
+TBLSATIS.sql
+
+TBLURUN.sql
+
+### ✅ How to use:
+Open SQL Server Management Studio (SSMS).
+
+Open each .sql file inside the db_create folder.
+
+Execute them in the following order to avoid foreign key errors:
+
+TBLKATEGORI.sql
+
+TBLADMIN.sql
+
+TBLURUN.sql
+
+TBLMUSTERI.sql
+
+TBLSATIS.sql
+
+(Optional) You can add sample data inside each file or manually through the application UI.
+
+Finally, make sure your App.config connection string points to the database you've created.
+
+### 💡 This modular structure makes it easy to create or edit tables individually without re-running the whole schema.
+
+
+   
 📸 Screenshots
 
 ### 🔐 Login Screen
