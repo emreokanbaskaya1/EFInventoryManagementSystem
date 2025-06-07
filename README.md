@@ -20,32 +20,33 @@ A full-featured Windows Forms inventory management system built with C# and Enti
 
 📸 Screenshots
 
-🔐 Login Screen
+### 🔐 Login Screen
 A simple login form that authenticates admin credentials.
+
 ![image](https://github.com/user-attachments/assets/212f86f3-5a19-458c-8763-5677605ef427)
 
 
 
-🧭 Main Menu Navigation
+### 🧭 Main Menu Navigation
 Buttons to access product, category, and statistics sections.
 ![image](https://github.com/user-attachments/assets/8ea2a985-d1b3-4715-b446-506ea0549251)
 
 
 
-📦 Product Management
+### 📦 Product Management
 Form to manage product details such as stock, brand, price, and category.
 ![image](https://github.com/user-attachments/assets/4c4d4ea8-25c1-4fe2-8cb4-3e5fae0f189a)
 
 
 
-📁 Category Management
+### 📁 Category Management
 Add, update, delete, and list product categories.
 ![image](https://github.com/user-attachments/assets/ba172a46-88be-4035-98e8-754c4aeccc63)
 
 
 
 
-📊 Statistics Dashboard
+### 📊 Statistics Dashboard
 Colorful dashboard showing total stock, top brands, most/least expensive items, etc.
 ![image](https://github.com/user-attachments/assets/7f23d19f-664e-4726-a161-b23f5464c565)
 
