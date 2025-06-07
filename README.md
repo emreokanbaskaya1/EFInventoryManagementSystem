@@ -29,18 +29,21 @@ A simple login form that authenticates admin credentials.
 
 ### 🧭 Main Menu Navigation
 Buttons to access product, category, and statistics sections.
+
 ![image](https://github.com/user-attachments/assets/8ea2a985-d1b3-4715-b446-506ea0549251)
 
 
 
 ### 📦 Product Management
 Form to manage product details such as stock, brand, price, and category.
+
 ![image](https://github.com/user-attachments/assets/4c4d4ea8-25c1-4fe2-8cb4-3e5fae0f189a)
 
 
 
 ### 📁 Category Management
 Add, update, delete, and list product categories.
+
 ![image](https://github.com/user-attachments/assets/ba172a46-88be-4035-98e8-754c4aeccc63)
 
 
