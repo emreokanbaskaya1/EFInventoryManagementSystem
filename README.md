@@ -10,14 +10,14 @@ A full-featured Windows Forms inventory management system built with C# and Enti
 - 📊 Visual statistics dashboard (Total stock, customer stats, top brands etc.)
 - 🖥 Simple and clean WinForms interface
 - 💾 SQL Server + Entity Framework (Database First)
-
+---
 ## 🛠 Technologies
 
 - C# (.NET Framework)
 - Windows Forms
 - Entity Framework 6
 - Microsoft SQL Server
-
+---
 ## 🗄 Database Setup
 This project includes a db_create folder that contains separate SQL scripts to create the required tables individually.
 
@@ -54,10 +54,9 @@ TBLSATIS.sql
 Finally, make sure your App.config connection string points to the database you've created.
 
 ### 💡 This modular structure makes it easy to create or edit tables individually without re-running the whole schema.
+---
 
-
-   
-📸 Screenshots
+## 📸 Screenshots
 
 ### 🔐 Login Screen
 A simple login form that authenticates admin credentials.
